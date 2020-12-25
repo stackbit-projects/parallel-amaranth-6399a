@@ -16,7 +16,7 @@ sections:
     align: left
     image: images/—Pngtree—business meeting  speech_4113823.jpg
     image_position: right
-    has_background: true
+    has_background: false
     background:
       background_color: blue
       background_image: images/diagonal-lines.svg
