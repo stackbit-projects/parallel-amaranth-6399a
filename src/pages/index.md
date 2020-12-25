@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Web and Application Development
     subtitle: >-
-      Fast, reliable and scalable Web or mobile applications. Optimized for all
-      platforms and devices using the latest technology available.
+      Snappy, Reliable and Scalable Web or Mobile application development.
+      Optimized for all platforms across all devices using the latest technology
+      available.
     actions:
       - label: Learn More
         url: /features
