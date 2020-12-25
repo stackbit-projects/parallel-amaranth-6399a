@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Web and Application Development
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Fast, reliable and scalable Web or mobile applications. Optimized for all
+      platforms and devices using the latest technology available.
     actions:
       - label: Learn More
         url: /features
