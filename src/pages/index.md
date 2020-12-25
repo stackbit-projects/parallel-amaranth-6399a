@@ -2,10 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Web and Application Development
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We build responsive, reliable and scalable applications, optimized for all
+      platforms across all devices using the latest technology available.
     actions:
       - label: Learn More
         url: /features
@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/—Pngtree—business meeting  speech_4113823.jpg
     image_position: right
     has_background: true
     background:
@@ -63,7 +63,7 @@ sections:
             url: /features
             style: secondary
   - type: blog_feed_section
-    title: What's New
+    title: Customers
     show_recent: true
     recent_count: 3
   - type: cta_section
